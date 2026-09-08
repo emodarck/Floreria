@@ -27,5 +27,5 @@ Este es nuestro proyecto de sitio web para la asignatura de Desarrollo Web. Es u
 
 ## Integrantes del Grupo
 
-* [Enrique Nuñez Perez]
-* [Georgina Vargas Labra]
+* Enrique Nuñez Perez
+* Georgina Vargas Labra
